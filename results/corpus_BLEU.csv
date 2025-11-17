@@ -1,0 +1,5 @@
+model,corpus_BLEU_score
+gpt3_zero_shot,0.4237173464587261
+gpt3_few_shot,0.4752617232408119
+llama2_zero_shot,0.3355739508589386
+llama2_few_shot,0.176668410026455
