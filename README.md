@@ -1,2 +1,4 @@
 # question-generation-gpt3-llama2
 Question Generation with GPT-3 and Llama 2
+
+The task of question generation is to generate a question based on a given context and answer. It is useful for developing training data sets for QA models, among other uses. Recent developments in LLMs have shown impressive results in natural language generation, making them promising models for the task of question generation. Here, I explore the use of two LLMs, GPT-3 and Llama 2 on the task of question generation and investigate the effects of zero-shot and few-shot prompting on model performance. My experiments show that, despite expectations to the contrary, GPT-3 outperforms Llama 2 in both zero-shot and few-shot settings and that the performance of Llama 2 suffers when using few-shot prompting as opposed to zero-shot.
